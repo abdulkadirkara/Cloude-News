@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_news_title">18sp</dimen>
+    <dimen name="title">24sp</dimen>
+    <dimen name="description">15sp</dimen>
+    <dimen name="author">10sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
